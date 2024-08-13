@@ -45,11 +45,6 @@ function Signature() {
     return "trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#Made by:github.com/Rango_CF";
 }
 
-function generateHiddifyTags() {
-    $profileTitle = base64_encode("IP_CF");
-    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732\n#support-url: https://IP_CF\n#profile-web-page-url: https://IP_CF.t.me
-";
-}
 
 $allVlessConfigs = $allVMessConfigs = $allSSConfigs = $allTrojanConfigs = $allH2Configs = $alltuicConfigs = [];
 
@@ -158,7 +153,7 @@ foreach ($telegramChannelURLs as $channelURL) {
 
 $trojanConfig = generateTrojanConfig();
 $signature = Signature();
-$generateHiddifyTags = generateHiddifyTags();
+
 
 $fileContents = [
     'IP_CF (vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
