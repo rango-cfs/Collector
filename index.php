@@ -156,13 +156,13 @@ $signature = Signature();
 
 
 $fileContents = [
-    'IP_CF (vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
-    'IP_CF (vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
-    'IP_CF (ss)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
-    'IP_CF (trojan)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
-    'IP_CF (hysteria)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . $signature,
-    'IP_CF (tuic)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . $signature,
-    'IP_CF (mix)' => $trojanConfig . PHP_EOL .
+    'IP_CF_(vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
+    'IP_CF_(vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
+    'IP_CF_(ss)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
+    'IP_CF_(trojan)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
+    'IP_CF_(hysteria)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . $signature,
+    'IP_CF_(tuic)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . $signature,
+    'IP_CF_(mix)' => $trojanConfig . PHP_EOL .
         implode(PHP_EOL, $allVlessConfigs) . PHP_EOL .
         implode(PHP_EOL, $allVMessConfigs) . PHP_EOL .
         implode(PHP_EOL, $allSSConfigs) . PHP_EOL .
