@@ -45,8 +45,8 @@ function Signature() {
     return "trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#Made by:github.com/Rango_CF";
 }
 
-function generateHiddifyTags() {
-    $profileTitle = base64_encode("IP_CF");
+function generateHiddifyTags($name) {
+    $profileTitle = base64_encode("IP_CF ".$name);
     return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732\n#support-url: https://IP_CF\n#profile-web-page-url: https://IP_CF.t.me
 ";
 }
@@ -161,7 +161,7 @@ $signature = Signature();
 $generateHiddifyTags = generateHiddifyTags();
 
 $fileContents = [
-    'vless' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
+    'vless' => $generateHiddifyTags('vless') . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
     'vmess' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
     'ss' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
     'trojan' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
