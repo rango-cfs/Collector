@@ -161,7 +161,7 @@ $signature = Signature();
 #$generateHiddifyTags = generateHiddifyTags();
 
 $fileContents = [
-    'vless' => $generateHiddifyTags('vless') . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
+    'vless' => $generateHiddifyTags("vless") . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
     'vmess' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
     'ss' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
     'trojan' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
