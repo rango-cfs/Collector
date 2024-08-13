@@ -88,20 +88,8 @@ $fileContents = [
         $signature,
 ];
 
-foreach ($fileContents as $content) {
-    file_put_contents("sub/vless", $content);
-    file_put_contents("sub/vmess", $content);
-    file_put_contents("sub/ss", $content);
-    file_put_contents("sub/trojan", $content);
-    file_put_contents("sub/hysteria", $content);
-    file_put_contents("sub/tuic", $content);
-    file_put_contents("sub/mix", $content);
-    file_put_contents("sub/vlessbase64", base64_encode($content));
-    file_put_contents("sub/vmessbase64", base64_encode($content));
-    file_put_contents("sub/ssbase64", base64_encode($content));
-    file_put_contents("sub/trojanbase64", base64_encode($content));
-    file_put_contents("sub/hysteriabase64", base64_encode($content));
-    file_put_contents("sub/tuicbase64", base64_encode($content));
-    file_put_contents("sub/mixbase64", base64_encode($content));
+foreach ($fileContents as $key => $content) {
+    file_put_contents("sub/{$key}", $content);
+    file_put_contents("sub/{$key}base64", base64_encode($content));
 }
 ?>
