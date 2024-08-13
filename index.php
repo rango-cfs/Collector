@@ -158,7 +158,7 @@ foreach ($telegramChannelURLs as $channelURL) {
 
 $trojanConfig = generateTrojanConfig();
 $signature = Signature();
-$generateHiddifyTags = generateHiddifyTags();
+#$generateHiddifyTags = generateHiddifyTags();
 
 $fileContents = [
     'vless' => $generateHiddifyTags('vless') . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
