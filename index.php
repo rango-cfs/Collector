@@ -161,13 +161,13 @@ $signature = Signature();
 $generateHiddifyTags = generateHiddifyTags();
 
 $fileContents = [
-    'vless' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
-    'vmess' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
-    'ss' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
-    'trojan' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
-    'hysteria' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . $signature,
-    'tuic' => $generateHiddifyTags . $trojanConfig . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . $signature,
-    'mix' => $generateHiddifyTags . $trojanConfig . PHP_EOL .
+    'IP_CF (vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
+    'IP_CF (vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
+    'IP_CF (ss)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
+    'IP_CF (trojan)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
+    'IP_CF (hysteria)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . $signature,
+    'IP_CF (tuic)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $alltuicConfigs) . PHP_EOL . $signature,
+    'IP_CF (mix)' => $trojanConfig . PHP_EOL .
         implode(PHP_EOL, $allVlessConfigs) . PHP_EOL .
         implode(PHP_EOL, $allVMessConfigs) . PHP_EOL .
         implode(PHP_EOL, $allSSConfigs) . PHP_EOL .
