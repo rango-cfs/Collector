@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Sat-17-Aug-2024 18:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Sat-17-Aug-2024 19:52
 
 
 
@@ -6,7 +6,16 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 
 
 
-
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freefhc01.jd0001.top:15734?security=tls&amp;sni=freefhc01.jd0001.top&amp;type=grpc&amp;serviceName=freefhc01#%E7%BE%8E%E5%9B%BD%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freefhc01.jd0001.top:17644?security=tls&amp;sni=freefhc01.jd0001.top&amp;type=grpc&amp;serviceName=freefhc01#%E5%87%A4%E5%87%B0%E5%9F%8E%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freehr01.jd0001.top:15055?security=tls&amp;sni=freehr01.jd0001.top&amp;type=grpc&amp;serviceName=freehr01#%E9%9F%A9%E5%9B%BD%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freehr01.jd0001.top:15055?security=tls&amp;sni=freehr01.jd0001.top&amp;type=grpc&amp;serviceName=freehr01#%E9%9F%A9%E5%9B%BD%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp01.jd0001.top:34675?security=tls&amp;sni=freejp01.jd0001.top&amp;type=grpc&amp;serviceName=freejp01#%E6%97%A5%E6%9C%AC%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp01.jd0001.top:34675?security=tls&amp;sni=freejp01.jd0001.top&amp;type=grpc&amp;serviceName=freejp01#%E6%97%A5%E6%9C%AC%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freejp01.jd0001.top:37578?security=tls&amp;sni=freejp01.jd0001.top&amp;type=grpc&amp;serviceName=freejp01#%E6%97%A5%E6%9C%AC%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp03.jd0001.top:17305?security=tls&amp;sni=freejp03.jd0001.top&amp;type=grpc&amp;serviceName=freejp03#%E6%97%A5%E6%9C%AC%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B903
+trojan://e8012565-5b9f-373f-b1eb-e2445711e65c@freejp03.jd0001.top:17305?security=tls&amp;sni=freejp03.jd0001.top&amp;type=grpc&amp;serviceName=freejp03#%E6%97%A5%E6%9C%AC%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B903
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@freesg01.jd0001.top:13498?security=tls&amp;sni=freesg01.jd0001.top&amp;type=grpc&amp;serviceName=freesg01#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B901
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -25,8 +34,6 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 
 
 
-trojan://telegram-id-privatevpns@35.181.77.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
-trojan://telegram-id-privatevpns@18.132.31.170:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@18.168.101.230:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://telegram-id-privatevpns@79.125.113.42:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S119)
 trojan://telegram-id-privatevpns@63.32.189.104:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
@@ -44,6 +51,7 @@ trojan://telegram-id-privatevpns@51.20.148.63:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@13.50.167.207:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@52.28.129.153:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.74.200.180:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
+trojan://telegram-id-privatevpns@13.38.142.214:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 
 
 
