@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Sun-18-Aug-2024 04:50
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Sun-18-Aug-2024 06:08
 
 
 ss://eyJhZGQiOiIxODUuMjI2LjkyLjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1OGM4N2U1Ni0yODg3LTQ2OGItOGM5ZC02M2ZhZWI4NzM1ZTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwNzQ5IiwicHMiOiLimpzvuI9UZWxlZ3JhbTogQElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -320,24 +320,23 @@ ss://d49b6e39-9b60-43bd-ebe4-a5375bd90208@www.speedtest.net:2052?path=%2Ftelegra
 ss://TELEGRAM-NUFiLTER@[2a01:4f8:c010:c9a::1]:30490?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40nufilter+%F0%9F%87%A9%F0%9F%87%AAipv6
 ss://acf64f0d-8107-4a52-de7c-72f4b33f05f4@www.speedtest.net:2052?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=5.V2.h.www.speedtest.net.bklink.iR.&amp;type=httpupgrade#%40nufilter+%F0%9F%87%A9%F0%9F%87%AAhttp3
 ss://2e211e92-35e5-4ad0-9724-d4ddd967009d@www.speedtest.net:2052?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=5.V2.h.www.speedtest.net.asve.iR.&amp;type=httpupgrade#%40nufilter+%F0%9F%87%A9%F0%9F%87%AAhttp4
-ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#
-ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#
-ss://d8e87e5b-2ff1-4880-bdcc-6ba504ae3162@104.17.147.22:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&amp;security=none&amp;encryption=none&amp;host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&amp;type=httpupgrade#
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#
+ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#
+ss://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=MoRtEzA865.paGES.DEV&amp;type=ws&amp;sni=MoRtEzA865.paGES.DEV#
+ss://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#
 ss://eyJhZGQiOiAiUGFyc1Zkcy5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJmYXN0eHYucGFnZXMuZGV2IiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2ExIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwYWdlcy5kZXYiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wgIn0=
-ss://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=5.V2.h.www.speedtest.net.dnschecker.tecH.&amp;type=httpupgrade#
-ss://Parsashonam-40@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#
-ss://Telegram-ipV2Ray-dry@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRSVlIN3NpRTVmNmJjYVotSXVUczl3@172.233.62.73:1080#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q1o5OWdSSG16cDRTbEtGMk54YXhS@195.2.76.71:60422#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNQ21iZ1RrSEs3NkdLazdINjZWWkhT@81.19.141.45:52873#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWZDWGpySm9vVkVYdmN2elpIZkdq@77.83.246.74:33320#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVUpNclVrWThmcFZJMmIxOFQ1c1Jp@89.185.84.185:12575#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#
-ss://94f51d56-204b-466b-b1d7-d397df9273d2@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc0NmE=@b.naiun.node-is.green:51120#
+ss://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=bpb-worker-panel-chf.pages.dev&amp;type=ws&amp;sni=bpb-worker-panel-chf.pages.dev#
+ss://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiOTU3M2E0M2MzYWQ5Yjg3Yi53d3cuc3BlZWR0ZXN0Lm5ldC5mdHAuZGViaWFuLm9yZy5cdTgxZWFcdTVkZjFcdTRlMGRcdTc3MGJcdTU1NjVcdTRlOGJcdTU3ZmFcdTY3MmNcdTRlOGJcdTRlOGIuaGZkZHMueG9ybm90LklSLiIsICJpZCI6ICI5NTU2MjAyMC03MmZhLTQzODUtYjg2MS0wZDYzZTdiYWFhZGQiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiLz9lZD0yNTYwIiwgInBvcnQiOiAiMjA4MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sICJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc0NmE=@b.naiun.node-is.green:51121#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMWE3NzRhMS01YWUwLTRiZWQtYmVkMC1hYzA5ZWQ0MTc0NmE=@b.naiun.node-is.green:51119#
+ss://362ae09a-89d7-43b7-a59f-c8048dab6280@www.speedtest.net:8880?path=%2Fv2pedia%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=9.V2.d.www.speedtest.net.debian.org.dnschecker.v2logy.iR.&amp;type=httpupgrade#
+ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@ParsVds.ir:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#
+ss://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&amp;type=httpupgrade#
+ss://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=ShAH-AGZ.PAGES.dEV&amp;fp=chrome&amp;type=ws&amp;sni=ShAh-aGz.pAGes.DEV#
+ss://f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545@172.66.47.172:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=K5z3-1h6p-9t8R-2f4B-0W7g-3x2m-5u9D-8N1c-7e4J-6q0Y-5S8v-2A9.pAGeS.Dev&amp;fp=randomized&amp;type=ws&amp;sni=k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv#
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=80acf9Da.EhSaN-PAnEL.PAGES.dEv&amp;type=ws&amp;sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv#
 ss://94f51d56-204b-466b-b1d7-d397df9273d2@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#
 ss://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjQ0MyIsImlkIjoiMjA2MjU5ZmQtMDlhZi00NmVlLWVjNmQtNWFjOGE4MjkxZDZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXloZ2l1eWZld2RyZ2YtdG8xMjM0NS54aWFvaGhoLnh5eiIsInRscyI6InRscyIsInBhdGgiOiIvNjYifQ==
 ss://eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm71fMiIsInBvcnQiOiI4MCIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid2FwLmhvc3RtamouY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
