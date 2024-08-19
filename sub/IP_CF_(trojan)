@@ -1,4 +1,9 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Mon-19-Aug-2024 16:03
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Mon-19-Aug-2024 16:51
+
+
+
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443/?type=ws&amp;host=jobscareerforlawyers.com&amp;path=6b777a91&amp;security=tls&amp;sni=jobscareerforlawyers.com#
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443/?type=ws&amp;host=jobscareerforlawyers.com&amp;path=6b777a91&amp;security=tls&amp;sni=jobscareerforlawyers.com#
 
 
 
@@ -9,11 +14,6 @@ trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tc
 
 
 
-
-
-
-
-trojan://telegram-id-privatevpns@13.53.213.236:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.51.132.254:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S112)
 trojan://telegram-id-privatevpns@18.193.146.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@18.194.224.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
@@ -32,6 +32,7 @@ trojan://telegram-id-privatevpns@15.236.100.190:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@18.135.188.0:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S108)
 trojan://telegram-id-privatevpns@52.51.116.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@99.80.130.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://telegram-id-privatevpns@16.170.161.91:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 
 
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&amp;security=tls&amp;host=jobscareerforstudent.com&amp;type=ws&amp;sni=jobscareerforstudent.com#%40V2rayNG3
