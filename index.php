@@ -52,7 +52,6 @@ $telegramChannelURLs = [
     "https://t.me/s/ip_cf",
     "https://t.me/s/Hinminer",
     "https://t.me/s/Freeland8",
-    "https://t.me/s/DailyV2RY",
     "https://t.me/s/nufilter",
     "https://t.me/s/Tunder_vpn",
 
