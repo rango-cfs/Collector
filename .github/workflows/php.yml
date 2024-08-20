@@ -23,7 +23,7 @@ jobs:
         run: |
           php index.php
           git config --global user.email "rango_cfs@gmail.com"
-          git config --global user.name "sango_cfs"
+          git config --global user.name "Rango_cfs"
           git config credential.helper store
           git add -A
           git commit -m "🚀 Last Run - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
