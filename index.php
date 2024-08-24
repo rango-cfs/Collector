@@ -125,6 +125,8 @@ $telegramChannelURLs = [
     "https://t.me/s/ArV2ray",
     "https://t.me/s/nufilter",
     "https://t.me/s/Tunder_vpn",
+    "https://t.me/s/V2pedia",
+    "https://t.me/s/lightni",
 
 ];
 
