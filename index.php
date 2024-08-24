@@ -167,8 +167,8 @@ function changeNameInVmessLink($vmessLink) {
 
 
 $fileContents = [
-    'IP_CF_(vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
-    'IP_CF_(vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
+    'IP_CF_(vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, changeNameInVmessLink($allVlessConfigs)) . PHP_EOL . $signature,
+    'IP_CF_(vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, changeNameInVmessLink($allVMessConfigs)) . PHP_EOL . $signature,
     'IP_CF_(ss)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
     'IP_CF_(trojan)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
     'IP_CF_(hysteria)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . $signature,
