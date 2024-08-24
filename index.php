@@ -148,27 +148,10 @@ foreach ($telegramChannelURLs as $channelURL) {
 $trojanConfig = generateTrojanConfig();
 $signature = Signature();
 
-function changeNameInVmessLink($vmessLink) {
-    $jsonPart = base64_decode(substr($vmessLink, strpos($vmessLink, '://') + 3));
-    $data = json_decode($jsonPart, true);
-
-    if ($data !== null && isset($data['ps'])) {
-        $newName = implode(' | ', array_slice(explode(' | ', $data['ps']), 1, 2)) . '⚜️Telegram:@IP_CF';
-        $data['ps'] = $newName;
-        $newJsonPart = base64_encode(json_encode($data));
-
-        return substr_replace($vmessLink, $newJsonPart, strpos($vmessLink, '://') + 3);
-    }
-
-    return $vmessLink;
-}
-
-
-
 
 $fileContents = [
     'IP_CF_(vless)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVlessConfigs) . PHP_EOL . $signature,
-    'IP_CF_(vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, changeNameInVmessLink[$allVMessConfigs]) . PHP_EOL . $signature,
+    'IP_CF_(vmess)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allVMessConfigs) . PHP_EOL . $signature,
     'IP_CF_(ss)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allSSConfigs) . PHP_EOL . $signature,
     'IP_CF_(trojan)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allTrojanConfigs) . PHP_EOL . $signature,
     'IP_CF_(hysteria)' => $trojanConfig . PHP_EOL . implode(PHP_EOL, $allH2Configs) . PHP_EOL . $signature,
