@@ -148,7 +148,7 @@ foreach ($telegramChannelURLs as $channelURL) {
 $trojanConfig = generateTrojanConfig();
 $signature = Signature();
 
-function changeNameInVmessLink($vmessLink) {
+function changeNameInVmessLink($vmessLink[]) {
     $jsonPart = base64_decode(substr($vmessLink, strpos($vmessLink, '://') + 3));
     $data = json_decode($jsonPart, true);
 
