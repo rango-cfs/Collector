@@ -4,12 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '*/60 * * * *'
-
+    
 jobs:
-  ip_cf-full:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
@@ -22,9 +20,17 @@ jobs:
       - name: Execute PHP script
         run: |
           php index.php
+          git config credential.helper store
+      
+      - name: Configure Git
+        run: |
           git config --global user.email "rango_cfs@gmail.com"
           git config --global user.name "Rango_cfs"
-          git config credential.helper store
+          git remote set-url origin https://github.com/rango-cfs/Collector.git
+      
+      - name: Push changes with rebase
+        run: |
           git add -A
-          git commit -m "🚀 Last Run - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "V0.2 🚀 - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git pull --rebase origin main
           git push
