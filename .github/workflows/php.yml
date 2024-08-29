@@ -16,15 +16,24 @@ jobs:
         uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
-          
+
       - name: Execute PHP script
         run: |
-          php index.php
+          php bot.php
           git config credential.helper store
+      
+      - name: Configure Git
+        run: |
           git config --global user.email "rango_cfs@gmail.com"
           git config --global user.name "Rango_cfs"
           git remote set-url origin https://github.com/rango-cfs/Collector.git
+      
+      - name: Push changes with rebase
+        run: |
           git add -A
           git commit -m "🚀 Last Run - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git pull --rebase origin main
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUSH_BOT }}
+          
