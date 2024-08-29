@@ -19,7 +19,7 @@ jobs:
 
       - name: Execute PHP script
         run: |
-          php bot.php
+          php index.php
           git config credential.helper store
       
       - name: Configure Git
