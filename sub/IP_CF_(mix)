@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Fri-13-MEHR-1403 🕑 19:53
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Fri-13-MEHR-1403 🕑 20:45
 vless://a66b8a53-ea44-4cd1-92a8-fe1bb65cc363@speedtest.net:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=gfbhgvf5fvgt4ftgrhyr4.com&amp;type=ws&amp;sni=speedtest.net#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
@@ -6,6 +6,7 @@ vless://a66b8a53-ea44-4cd1-92a8-fe1bb65cc363@speedtest.net:443?path=ws%2F%3Fed%3
 vless://ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://6e3acf13-788a-4de7-90f3-2887871bb42d@[2a01:4f8:c013:637f::1]:40346?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
+vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#
 
 
 vless://4c3d81f3-1a27-48ab-b785-97a76f919670@speedtest.net:443?encryption=none&amp;security=tls&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=alp15.ir&amp;path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS4-ALL|@ArV2ray
@@ -78,6 +79,7 @@ ss://a66b8a53-ea44-4cd1-92a8-fe1bb65cc363@speedtest.net:443?path=ws%2F%3Fed%3D20
 ss://ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 ss://ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 ss://6e3acf13-788a-4de7-90f3-2887871bb42d@[2a01:4f8:c013:637f::1]:40346?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
+ss://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#
 
 
 ss://4c3d81f3-1a27-48ab-b785-97a76f919670@speedtest.net:443?encryption=none&amp;security=tls&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=alp15.ir&amp;path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS4-ALL|@ArV2ray
