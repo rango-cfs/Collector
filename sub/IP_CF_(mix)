@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Wed-09-ABAN-1403 🕑 22:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#LATEST-UPDATE - Wed-09-ABAN-1403 🕑 23:50
 vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#
 vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#
 vless://IP_CF | CHANNEL@[2a01:4f8:c013:637f::1]:47810?path=%2F@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#
@@ -35,6 +35,7 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-N
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?type=ws&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;host=Nahar2nakhordim.net&amp;security=none#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20ws4
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Awa2waw.net&amp;type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AAws5
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&amp;security=none&amp;encryption=none&amp;host=Abnabat2chobi.net&amp;type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws6
+vless://8e200129-f030-488e-8976-4ca835e05672@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Ajab2vazie.net&amp;type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AAws7
 
 vless://6569c28e-7b9b-4e06-b04a-9fde41f33352@speedtest.net:443?type=ws&amp;host=que4.ir&amp;path=/v2pedia?ed%3D2048&amp;security=tls&amp;fp=chrome&amp;sni=speedtest.net#Tls
 vless://af117745-5390-4929-94ae-e730814e432a@bwdraper.faculty.ucdavis.edu:443?type=ws&amp;host=que4.ir&amp;path=/v2pedia?ed%3D2048&amp;security=tls&amp;fp=chrome&amp;sni=bwdraper.faculty.ucdavis.edu#T
@@ -104,6 +105,7 @@ ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-NUFi
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?type=ws&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;host=Nahar2nakhordim.net&amp;security=none#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20ws4
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Awa2waw.net&amp;type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AAws5
 ss://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&amp;security=none&amp;encryption=none&amp;host=Abnabat2chobi.net&amp;type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws6
+ss://8e200129-f030-488e-8976-4ca835e05672@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Ajab2vazie.net&amp;type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AAws7
 
 ss://6569c28e-7b9b-4e06-b04a-9fde41f33352@speedtest.net:443?type=ws&amp;host=que4.ir&amp;path=/v2pedia?ed%3D2048&amp;security=tls&amp;fp=chrome&amp;sni=speedtest.net#Tls
 ss://af117745-5390-4929-94ae-e730814e432a@bwdraper.faculty.ucdavis.edu:443?type=ws&amp;host=que4.ir&amp;path=/v2pedia?ed%3D2048&amp;security=tls&amp;fp=chrome&amp;sni=bwdraper.faculty.ucdavis.edu#T
